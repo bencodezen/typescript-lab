@@ -1,0 +1,14 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": "git@github.com:bencodezen/typescript-playground.git",
+  "author": "Ben Hong <ben@bencodezen.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
